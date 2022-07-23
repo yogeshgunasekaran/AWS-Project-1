@@ -2,7 +2,7 @@
 This project is to deploy a web-application in AWS cloud infrastructure using GoDaddy Domain, AWS-EC2 instances for (Ngnix, MySQL, Memcached, RabbitMQ), Route53 Private DNS, ACM, S3, ELB, Autoscaling Group and CloudWatch
 
 ### Project Architecture
-![1](https://user-images.githubusercontent.com/106590073/180604999-231889df-c734-4052-be52-13d70ac9c272.jpg)
+![1](https://user-images.githubusercontent.com/106590073/180606295-22edc260-270b-4c4c-872a-060d591a6f07.jpg)
 
 ### Procedure : 
 - Login to AWS Account
